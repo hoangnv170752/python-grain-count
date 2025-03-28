@@ -3,6 +3,9 @@
 ## Tổng Quan Dự Án (Project Overview)
 Đây là ứng dụng Streamlit để phát hiện và đếm số lượng hạt trong hình ảnh sử dụng kỹ thuật thị giác máy tính. Ứng dụng hỗ trợ tải lên và so sánh hai hình ảnh khác nhau.
 
+## DEMO VIDEO
+https://www.loom.com/share/4abfc61c849a432abed656d23146e245?sid=9dc3a57a-27a5-4bf2-91d6-0e8967f48141
+
 ## Hướng Dẫn Cài Đặt (Setup Instructions)
 1. Clone repository
 2. Tạo môi trường ảo (virtual environment)
